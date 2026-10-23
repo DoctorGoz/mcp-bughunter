@@ -1,0 +1,22 @@
+{
+  "target": "mcp-bughunter",
+  "ref": "HEAD",
+  "commit": "dfc654bd5451bd51b3b50e96944703e2af76f5a1",
+  "built_at": "2026-10-23T14:36:28Z",
+  "files": 27,
+  "edited": [
+    "scripts/mcp-call.sh",
+    "scripts/mcp-probe.sh",
+    "scripts/mcp-enum.sh",
+    "scripts/mcp-shadow-scan.sh",
+    "scripts/mcp-poison-scan.py",
+    "scripts/mcp-fuzz.py",
+    "scripts/mcp-readonly-broker.sh",
+    "scripts/mcp-confirm.py",
+    "wordlists/mcp-command-injection.txt",
+    "wordlists/mcp-path-traversal.txt",
+    "wordlists/mcp-shadow-paths.txt",
+    "wordlists/mcp-ssrf.txt",
+    "wordlists/mcp-tool-poisoning.txt"
+  ]
+}
